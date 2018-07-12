@@ -1,5 +1,6 @@
-# inWebStyle Solutions
-Administration, mises à jour, soutien technique, conception et refonte de sites web
+# Qui sommes-nous?
+
+> Administration, mises à jour, soutien technique, conception et refonte de sites web
 
 inWebStyle Solutions est basée à Toronto (Canada) depuis 2008 et est bien connu dans la communauté francophone. Nos services à nos clients ontariens et internationaux incluent la conception des sites web ou bien l'administration, les mises à jour, le soutien technique et la refonte de leurs sites  web  existants. 
 
