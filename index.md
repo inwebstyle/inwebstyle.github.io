@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
 [accueil] - [portfolio](portfolio.md) - [clients](clients.md) - [welcome](welcome.md)
 - - -
