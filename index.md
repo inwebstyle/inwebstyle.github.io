@@ -1,5 +1,5 @@
 
-[PORTFOLIO](portfolio.md)
+[portfolio](portfolio.md)
 - - -
 # Qui sommes-nous?
 
