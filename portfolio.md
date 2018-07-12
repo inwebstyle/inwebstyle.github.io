@@ -2,14 +2,16 @@
 - - -
 > Administration, mises à jour, soutien technique, conception et refonte de sites web
 
-# Notre portfolio
+# Experiments
 
 [inWebStyle in classic Google Sites](https://sites.google.com/site/inwebstylesolutions)
 
 [inWebStyle in new Google Sites](https://sites.google.com/site/inwebstyle)
 
-![image](https://drive.google.com/open?id=1vuuaA3IuS8pZKDqYAoOcGuqwLp93gRBi)
+# Portfolio
 
-![image](https://drive.google.com/open?id=1vuuaA3IuS8pZKDqYAoOcGuqwLp93gRBi =100px)
+![image](/assets/img/iws-logo.png)
 
-<img src="https://drive.google.com/open?id=1vuuaA3IuS8pZKDqYAoOcGuqwLp93gRBi" alt="drawing" width="200px"/>
+![image](/assets/img/iws-logo.png =50px)
+
+<img src="/assets/img/iws-logo.png" width="200px"/>
