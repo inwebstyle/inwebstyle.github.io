@@ -7,3 +7,5 @@
 [inWebStyle in classic Google Sites](https://sites.google.com/site/inwebstylesolutions)
 
 [inWebStyle in new Google Sites](https://sites.google.com/site/inwebstyle)
+
+![image](https://drive.google.com/open?id=1vuuaA3IuS8pZKDqYAoOcGuqwLp93gRBi)
