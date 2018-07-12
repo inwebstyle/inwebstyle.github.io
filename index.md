@@ -1,5 +1,5 @@
 
-[portfolio](portfolio.md)
+[accueil] - [portfolio](portfolio.md) - [clients](clients.md) - [welcome](welcome.md)
 - - -
 # Qui sommes-nous?
 
