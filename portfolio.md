@@ -9,3 +9,7 @@
 [inWebStyle in new Google Sites](https://sites.google.com/site/inwebstyle)
 
 ![image](https://drive.google.com/open?id=1vuuaA3IuS8pZKDqYAoOcGuqwLp93gRBi)
+
+![image](https://drive.google.com/open?id=1vuuaA3IuS8pZKDqYAoOcGuqwLp93gRBi =100px)
+
+<img src="https://drive.google.com/open?id=1vuuaA3IuS8pZKDqYAoOcGuqwLp93gRBi" alt="drawing" width="200px"/>
