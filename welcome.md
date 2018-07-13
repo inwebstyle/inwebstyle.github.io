@@ -2,7 +2,7 @@
 - - -
 > Administration, updates, technical support, and [re]design of websites: <A HREF="mailto:inwebstyle@gmail.com">Contact us!</A>
 
-# Qui sommes-nous?
+# About
 
 inWebStyle Solutions is based in Toronto (Canada) and specialises in offering a full range of web support services to the GTA French-speaking community. The company exists since 2008. Our services include web site administration, updates, technical support, and [re]design. We look after your websites as if there were our own.   
 
