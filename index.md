@@ -29,3 +29,6 @@ inWebStyle Solutions est basée à Toronto (Canada) depuis 2008 et est bien conn
 - Manuels d'utilisation 
 - Administration des serveurs
 - Migration de projets web
+
+- - -
+[accueil] - [portfolio](portfolio.md) - [clients](clients.md) - [welcome](welcome.md)
