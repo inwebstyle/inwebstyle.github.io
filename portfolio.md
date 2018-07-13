@@ -2,7 +2,7 @@
 - - -
 > Administration, mises à jour, soutien technique, conception et refonte de sites web : <A HREF="mailto:inwebstyle@gmail.com">Contactez-nous !</A>
 
-> Experiments: <a href="https://sites.google.com/site/inwebstylesolutions" target="_blank">inWebStyle : classic Google Sites</a> <a href="https://sites.google.com/site/inwebstyle" target="_blank">inWebStyle : new Google Sites</a>
+> Experiment 1: <a href="https://sites.google.com/site/inwebstylesolutions" target="_blank">inWebStyle : Google Sites</a> Experiment 2: <a href="https://sites.google.com/site/inwebstyle" target="_blank">inWebStyle : Google Sites</a>
 
 - - -
 
