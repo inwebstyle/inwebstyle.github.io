@@ -20,8 +20,8 @@ inWebStyle Solutions est basée à Toronto (Canada) depuis 2008 et est bien conn
 ## Technologies
 
 - Wordpress, Joomla, Jomres, Drupal
-- Shopify, Woocommerce
-- Google Sites, Station Builder, Squarespace, Weebly, Wix, autres constructeurs web.
+- Shopify, Woocommerce, MailChimp
+- Google Sites, Station Builder, Squarespace, Weebly, Wix, autres constructeurs web
 - HTML/CSS, GitHub
 
 ## En plus
